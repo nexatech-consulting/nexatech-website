@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+
+    <!--- basic page needs
+    ================================================== -->
+    <meta charset="utf-8">
+    <title>Tab Title</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- mobile specific metas
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSS
+    ================================================== -->
+    <link rel="stylesheet" href="./css/vendor.css">
+    <link rel="stylesheet" href="./css/styles.css">
+
+
+   <!-- Favicons
+    ================================================== -->
+    <link rel="shortcut icon" href="./images/btc.ico" >
+
+</head>
+
+<body id="top">
+
+
+    <!-- content
+    ================================================== -->
+    <section class="s-content">
+
+        <div class="row">
+            <div class="column large-12">
+
+                <article class="s-content__entry format-standard">
+
+                    <div class="s-content__entry-header">
+                        <h1 class="s-content__title s-content__title--post">About Josh:</h1>
+                    </div> <!-- end s-content__entry-header -->
+
+                    <div class="s-content__primary">
+
+                        <div class="s-content__entry-content">
+
+                            <p>
+                            	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+					Convallis convallis tellus id interdum velit laoreet id donec ultrices. Sed cras ornare arcu dui. Id diam maecenas ultricies
+					mi eget mauris pharetra et ultrices. At volutpat diam ut venenatis tellus in metus vulputate. Faucibus interdum posuere lorem
+					ipsum dolor sit amet consectetur adipiscing. Et magnis dis parturient montes nascetur ridiculus mus mauris vitae. Mattis enim
+					ut tellus elementum sagittis vitae et. Auctor eu augue ut lectus arcu bibendum at varius vel. Dictum sit amet justo donec enim.
+                            </p>
+
+                            <ol>
+                                <li>Some text</li>
+                                <li>Some text</li>
+                            </ol>
+				
+				<html>
+					<body>
+					  <button onclick="window.location.href = 'https://www.example.net/en/';">Blog</button>
+					  <!-- <button onclick="window.location.href = 'https://www.example.net/es/';">Español</button>
+					  <button onclick="window.location.href = 'https://www.example.net/de/';">Deutsch</button>
+					  <button onclick="window.location.href = 'https://www.example.net/cn/';">中文</button>-->
+					</body>
+				</html>
+                            <p>
+                            We see <b>two major advantages</b> to adopting these principles:
+                            <ul>
+                            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+					Convallis convallis tellus id interdum velit laoreet id donec ultrices. Sed cras ornare arcu dui. Id diam maecenas ultricies
+					mi eget mauris pharetra et ultrices. At volutpat diam ut venenatis tellus in metus vulputate. Faucibus interdum posuere lorem
+					ipsum dolor sit amet consectetur adipiscing. Et magnis dis parturient montes nascetur ridiculus mus mauris vitae. Mattis enim
+					ut tellus elementum sagittis vitae et. Auctor eu augue ut lectus arcu bibendum at varius vel. Dictum sit amet justo donec enim.
+                            <li>
+                            	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+					Convallis convallis tellus id interdum velit laoreet id donec ultrices. Sed cras ornare arcu dui. Id diam maecenas ultricies
+					mi eget mauris pharetra et ultrices. At volutpat diam ut venenatis tellus in metus vulputate. Faucibus interdum posuere lorem
+					ipsum dolor sit amet consectetur adipiscing. Et magnis dis parturient montes nascetur ridiculus mus mauris vitae. Mattis enim
+					ut tellus elementum sagittis vitae et. Auctor eu augue ut lectus arcu bibendum at varius vel. Dictum sit amet justo donec enim.</li>
+                            </ul>
+                            </p>
+
+                            <p style="text-align: center;">
+                                <img src="../images/image.png" width="80%" 
+                                         sizes="(max-width: 2100px) 100vw, 2100px" alt="">
+                            </p>
+
+                        </div> <!-- end s-entry__entry-content -->
+
+
+                        <div class="s-content__entry-meta">
+
+                            <div class="entry-author meta-blk">
+                                <div class="author-avatar">
+                                    <a href="https://www.example.xyz" target="_blank"><img class="avatar" src="https://images.credly.com/size/340x340/image/df274ca8-32d0-4889-aa09-4003c30e52f7/blob.png" alt=""></a>
+                                </div>
+                                <div class="byline">
+                                    <span>By</span>
+                                    <a href="https://www.example.xyz" target="_blank">Josh Mountain</a>                                    
+                                </div>
+                            </div>
+
+                            <div class="meta-bottom">
+                                
+                                <div class="entry-cat-links meta-blk">
+
+                                    <span>On</span>
+                                    January 3, 2023
+                                </div>
+
+                            </div>
+
+                        </div> <!-- s-content__entry-meta -->
+
+                    </div> <!-- end s-content__primary -->
+                </article> <!-- end entry -->
+
+            </div> <!-- end column -->
+        </div> <!-- end row -->
+    </section> <!-- end s-content -->
+
+    <!-- footer
+    ================================================== -->
+    <footer class="s-footer">
+        <div class="s-footer__bottom">
+            <div class="row">
+                <div class="column">
+                    <div class="ss-copyright">
+                       <!-- <span> Made with ♥️</span> -->
+					<a href="https://www.example.xyz/" target="_blank">&#169; 2023 | Made with ♥️ |</a></span> 
+                    </div> <!-- end ss-copyright -->
+                </div>
+            </div> 
+
+            <div class="ss-go-top">
+                <a class="smoothscroll" title="Back to Top" href="#top">
+                    <svg viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg" width="15" height="15"><path d="M7.5 1.5l.354-.354L7.5.793l-.354.353.354.354zm-.354.354l4 4 .708-.708-4-4-.708.708zm0-.708l-4 4 .708.708 4-4-.708-.708zM7 1.5V14h1V1.5H7z" fill="currentColor"></path></svg>
+                </a>
+            </div> <!-- end ss-go-top -->
+        </div> <!-- end s-footer__bottom -->
+
+   </footer> <!-- end s-footer -->
+</body>
+
+</html>
